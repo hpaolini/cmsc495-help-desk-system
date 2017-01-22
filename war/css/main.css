@@ -1,0 +1,50 @@
+body {
+	background-color: #f6fafc;
+    font-family: Verdana, Helvetica, sans-serif;
+	font-size: small !important;
+}
+
+.main {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.box {
+	border: 1px solid #dddddd; 
+	background: #ffffff;
+	margin: 10px auto;
+	padding: 15px;	
+}
+
+fieldset 
+{  
+    margin: 5px; 
+    padding: 0;
+    width: auto;
+    font-size: 90%;
+    border: none; 
+}
+
+fieldset ol 
+{  
+    list-style: none;
+    padding: 0;
+}
+
+fieldset li 
+{  
+    /* Control leading between rows. */
+    padding-bottom: .7em;
+}
+
+fieldset ol li label 
+{  
+    float: left;
+    width: 10em;        
+    margin-right: 1em;
+}
+
+table
+{
+	font-size: small !important;
+}
